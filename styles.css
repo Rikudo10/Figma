@@ -148,6 +148,7 @@ div.texts p{
     max-width: 100%;
     font-size: 20px;
     font-weight: 400;
+    padding-top: 180px;
 }
 .my {
     width: 37px;
@@ -157,8 +158,6 @@ div.texts p{
     display: grid;
     grid-template-columns: repeat(2, 1fr) !important;
     grid-gap: 30px;
-    padding-right: 40px;
-    padding-top: 50px;
     right: 0;
     top: 0;
 }
