@@ -125,9 +125,12 @@ div.texts p{
 .section2 {
     background-color: #F2F7FF;
     position: relative;
-    padding-left: 168px;
-    padding-top: 167px;
-    height: 650px;
+}
+#cont12 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr) !important;
+    padding-top: 50px;
+    padding-left: 50px;
 }
 .text1 {
     width: 268px;
@@ -151,7 +154,6 @@ div.texts p{
     height: 37px;
 }
 .cont3 {
-    position: absolute;
     display: grid;
     grid-template-columns: repeat(2, 1fr) !important;
     grid-gap: 30px;
