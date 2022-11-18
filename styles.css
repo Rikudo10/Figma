@@ -304,7 +304,6 @@ div.texts p{
     text-decoration: none;
 }
 .call {
-    border: 1px solid green;
     width: 220px;
     padding: 10px;
     padding-left: 40px;
@@ -323,6 +322,7 @@ footer {
     margin-top: 50px;
     height: 100px;
     padding: 20px;
+    padding-left: 90px;
 }
 .ul5 {
     list-style: none;
@@ -385,7 +385,4 @@ footer {
 .alast {
     text-decoration: none !important;
     color: white;
-}
-ul li {
-   
 }
