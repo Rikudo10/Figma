@@ -125,6 +125,7 @@ div.texts p{
 .section2 {
     background-color: #F2F7FF;
     position: relative;
+    margin-bottom: 40px;
 }
 #cont12 {
     display: grid;
@@ -173,4 +174,124 @@ div.texts p{
 .card-text {
     font-size: 14px;
     font-weight: 400;
+}
+.section3 {
+    position: relative;
+    background-color: #094B72;
+}
+#three {
+    position: relative;
+}
+.minidiv {
+    position: relative;
+}
+.li1 {
+    list-style: none;
+    padding-right: 180px;
+    font-size: 48px;
+    font-weight: 800;
+    color: white;
+}
+.ul1 {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+.li2 {
+    list-style: none;
+    padding-right: 100px;
+    font-size: 22px;
+    font-weight: 400;
+    color: white;
+}
+.twoh2 {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.twoh1 {
+    font-size: 48px;
+    font-weight: 900;
+    color: white;
+}
+.firstp {
+    font-size: 18px;
+    font-weight: 400;
+    color: white;
+}
+.minidiv2 {
+    padding-bottom: 30px;
+}
+.section4 {
+    background-color: #F2F7FF;
+}
+.tittle2 {
+    position: relative;
+    text-align: center;
+    padding-top: 41px;
+    padding-bottom: 45px;
+}
+.h2s {
+    font-size: 48px;
+    font-weight: 700;
+}
+.div01 {
+    width: 540px;
+    text-align: center;
+    border-radius: 10px;
+    -webkit-box-shadow: 3px 3px 10px 3px #dddddd;
+    -moz-box-shadow: 3px 3px 10px 3px #dddddd;
+    box-shadow: 3px 3px 10px 3px #dddddd;
+}
+.div02 {
+    width: 540px;
+    margin-left: auto;
+    text-align: center;
+    border-radius: 10px;
+    -webkit-box-shadow: 3px 3px 10px 3px #dddddd;
+    -moz-box-shadow: 3px 3px 10px 3px #dddddd;
+    box-shadow: 3px 3px 10px 3px #dddddd;
+}
+.photo1 {
+    padding-top: 28px;
+    text-align: center;
+    padding-bottom: 60px;
+}
+.h01 {
+    font-size: 18px;
+    font-weight: 500;
+    padding: 10px;
+}
+.div03 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+.p01 {
+    color: #4F4F4F;
+}
+.cont7 {
+    position: relative;
+}
+.lik {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+.h1r {
+    display: inline-block;
+    width: 480px;
+    font-size: 48px;
+    font-weight: 700;
+    max-width: 100%;
+}
+.p1 {
+    width: 480px;
+    max-width: 100%;
+    font-size: 24px;
+    font-weight: 400;
+}
+.photos {
+    margin-left: auto;
+}
+.photo1 {
+
 }
