@@ -269,29 +269,123 @@ div.texts p{
 .p01 {
     color: #4F4F4F;
 }
-.cont7 {
+#cont7 {
     position: relative;
+    margin-top: 50px;
 }
-.lik {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-}
+
 .h1r {
-    display: inline-block;
     width: 480px;
     font-size: 48px;
     font-weight: 700;
     max-width: 100%;
 }
-.p1 {
-    width: 480px;
-    max-width: 100%;
-    font-size: 24px;
-    font-weight: 400;
-}
+
 .photos {
     margin-left: auto;
 }
-.photo1 {
 
+
+/* Edited */
+.lik{
+    width: 50%;
+}
+.p1 {
+    display: inline-flex;
+    justify-content: space-between;
+}
+.span1 {
+    color:#F9F8F9;
+}
+.span2 {
+    color: white;
+}
+.a1 {
+    text-decoration: none;
+}
+.call {
+    border: 1px solid green;
+    width: 220px;
+    padding: 10px;
+    padding-left: 40px;
+    background-color: #094B72;
+    border-radius: 8px;
+}
+footer {
+    background-color: #094B72;
+}
+#cont6 {
+    position: relative;
+    display: flex;
+    flex-wrap: nowrap;
+}
+.logo2 {
+    margin-top: 50px;
+    height: 100px;
+    padding: 20px;
+}
+.ul5 {
+    list-style: none;
+}
+#cont9 {
+    background-color: #094B72 !important;
+}
+.menun {
+    width: 500px;
+    margin-left: auto;
+    margin-top: 50px;
+    margin-bottom: 70px;
+    margin-right: 50px;
+}
+.list-group-item {
+    border: none !important;
+    background: #094B72 !important;
+    color: white !important;
+}
+.lim {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    margin-bottom: 20px;
+}
+.v1 {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+.akclass {
+    text-decoration: none !important;
+    color: white;
+}
+#cont6 {
+    background-color: #094B72 !important;
+}
+footer {
+    background: #004D7B;
+}
+.plast {
+    display: flex;
+    flex-wrap: nowrap;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+.plast1 {
+    font-size: 17px;
+    font-weight: 400;
+    color: white;
+}
+.spann {
+    margin-left: auto;
+}
+.spanlast {
+    padding-left: 30px;
+    font-size: 22px;
+    color: white;
+}
+.alast {
+    text-decoration: none !important;
+    color: white;
+}
+ul li {
+   
 }
