@@ -1,4 +1,1 @@
-# Figma
-# Pip
-# Pip
 # Pip
